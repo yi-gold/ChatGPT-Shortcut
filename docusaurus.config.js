@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title:
-    "AiShort(ChatGPT Shortcut)-AI Prompt Management,Productivity Tool",
+    "title: "YiGodtGPT - AI Prompt Management,Productivity Tool",
   // tagline: '方便中文使用 ChatGPT 快捷指令',
   favicon: "img/favicon.ico",
 
